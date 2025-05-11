@@ -1,2 +1,2 @@
 # QMM
-Source code of "Quantum Matrix Multiplication: Accelerating Successive Operations"
+Source code of "Faster Quantum Subroutine for Matrix Chain Multiplication via Chebyshev Approximation".
